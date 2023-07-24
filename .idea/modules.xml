@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DijkstraAlgo/DijkstraAlgo.iml" filepath="$PROJECT_DIR$/DijkstraAlgo/DijkstraAlgo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxIncome_9-4_PriorityQueue/MaxIncome_9-4_PriorityQueue.iml" filepath="$PROJECT_DIR$/MaxIncome_9-4_PriorityQueue/MaxIncome_9-4_PriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wonderland9-7MinimumSpanningTree_UnionFind/Wonderland9-7MinimumSpanningTree_UnionFind.iml" filepath="$PROJECT_DIR$/Wonderland9-7MinimumSpanningTree_UnionFind/Wonderland9-7MinimumSpanningTree_UnionFind.iml" />
       <module fileurl="file://$PROJECT_DIR$/areWeFriend_Disjoint-Set_Union_Find/areWeFriend_Disjoint-Set_Union_Find.iml" filepath="$PROJECT_DIR$/areWeFriend_Disjoint-Set_Union_Find/areWeFriend_Disjoint-Set_Union_Find.iml" />
       <module fileurl="file://$PROJECT_DIR$/marry9-3ClassSort/marry9-3ClassSort.iml" filepath="$PROJECT_DIR$/marry9-3ClassSort/marry9-3ClassSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/root.iml" filepath="$PROJECT_DIR$/root.iml" />
