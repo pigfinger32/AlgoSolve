@@ -6,7 +6,7 @@ public class Main {
     static int N;
     static int answer = Integer.MAX_VALUE;
     static int[][] arr;
-    public void DFS(int L, int start){
+    public void BFS(int L, int start){
         //Boolean visit[] 배열을 통해 팀을 선정(방문으로 start팀을 선정)
         if (L == (N / 2)) {
             //팀이 모두 완성됫으면 점수를 계산해서 최소값을 구해요
@@ -15,7 +15,7 @@ public class Main {
         } else {
             for (int i = start; i < N; i++) {
                 visit[i] = true;
-                DFS(L + 1, i + 1);
+                BFS(L + 1, i + 1);
                 visit[i] = false;
             }
         }
@@ -51,7 +51,7 @@ public class Main {
                 arr[i][j] = kb.nextInt();
             }
         }
-        main.DFS(0, 0);
+        main.BFS(0, 0);
         System.out.println(answer);
     }
 }
