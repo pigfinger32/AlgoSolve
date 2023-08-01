@@ -30,6 +30,21 @@ public class Main {
         }
     }
 
+    public void DFS2() { //
+        while (!Q.isEmpty()) {
+            Point tmp = Q.poll();
+            for (int i = 0; i < 4; i++) {
+                int nx = tmp.x + dx[i];
+                int ny = tmp.y + dy[i];
+                if (nx >= 0 && nx < m && ny >= 0 && ny < n && board[nx][ny] == 0) {
+                    board[nx][ny] =1;
+                    dis[nx][ny] = board[tmp.x][tmp.y] + 1;
+                    Q.offer(new Point(nx, ny));
+                }
+            }
+        }
+    }
+
     //
     public static void main(String[] args) {
         Main main = new Main();
