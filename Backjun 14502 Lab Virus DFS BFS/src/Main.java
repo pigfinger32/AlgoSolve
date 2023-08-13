@@ -75,6 +75,7 @@ public class Main {
             //3.foreach 바이러스를 하나씩 꺼내서 바이러스 감염시켜본다.
             for (Point virus : virusList) {
                 Queue<Point> Q = new LinkedList<>();
+                //Queue<Point> pQQ = new LinkList<>();
                 Q.add(virus);
                 while (!Q.isEmpty()) {
                     Point vir = Q.poll();
