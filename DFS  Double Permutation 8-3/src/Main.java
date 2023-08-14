@@ -1,36 +1,45 @@
-
 import java.util.*;
+class Node{
+    int point;
+    Node lt, rt;
+
+    public Node(int point) {
+        this.point = point;
+        this.lt = null;
+        this.rt = null;
+    }
+}
 
 public class Main {
-    static int answer = Integer.MIN_VALUE;
-    static int n = 0, m = 0;
-    static int[] pm;
+    Node node;
+    Queue<Integer> q = new LinkedList();
 
-    public void DFS(int L) { //
-        if (L == m) {
-            for (int i : pm) {
-                System.out.print(i + " ");
+    public int BFS() {
+        Queue<Node> q = new LinkedList<>();
+        q.offer(node);
+        int L = 0;
+        while (!q.isEmpty()) {
+            int size = q.size();
+            for(int i = 0; i < size; i++){
+                Node cur = q.poll();
+                if(cur.lt == null && cur.rt == null)
+                    return L;
+                if(cur.lt != null)
+                    q.offer(cur.lt);
+                if(cur.rt != null)
+                    q.offer(cur.rt);
             }
-            System.out.println();
-        } else {
-            for (int i = 1; i <= n; i++) {
-                pm[L] = i;
-                DFS(L + 1);
-            }
+            L++;
         }
+        return 0;
     }
-
-    // 3 2
     public static void main(String[] args) {
-        Main main = new Main();
-        Scanner kb = new Scanner(System.in);
-        n = kb.nextInt(); // 자연수
-        m = kb.nextInt(); // 갯수
-        pm = new int[m];
-
-        main.DFS(0);
-
-        // Hashtable.replace(key, value);
-
+        Main tree = new Main();
+        tree.node = new Node(1);
+        tree.node.lt = new Node(2);
+        tree.node.rt = new Node(3);
+        tree.node.lt.lt = new Node(4);
+        tree.node.lt.rt = new Node(5);
+        System.out.println(tree.BFS());
     }
 }
