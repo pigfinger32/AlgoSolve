@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BackJun 14890 Incline/BackJun 14890 Incline.iml" filepath="$PROJECT_DIR$/BackJun 14890 Incline/BackJun 14890 Incline.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackJun 2667 Put Number BFS/BackJun 2667 Put Number BFS.iml" filepath="$PROJECT_DIR$/BackJun 2667 Put Number BFS/BackJun 2667 Put Number BFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackJun Alphabet 1987 DFS/BackJun Alphabet 1987 DFS.iml" filepath="$PROJECT_DIR$/BackJun Alphabet 1987 DFS/BackJun Alphabet 1987 DFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackJun DSLR 9019 BFS/BackJun DSLR 9019 BFS.iml" filepath="$PROJECT_DIR$/BackJun DSLR 9019 BFS/BackJun DSLR 9019 BFS.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/BackJun Make PW 1759/BackJun Make PW 1759.iml" filepath="$PROJECT_DIR$/BackJun Make PW 1759/BackJun Make PW 1759.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackJun StarkLink 14889 BFS BackTracking/BackJun StarkLink 14889 BFS BackTracking.iml" filepath="$PROJECT_DIR$/BackJun StarkLink 14889 BFS BackTracking/BackJun StarkLink 14889 BFS BackTracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackJun StartLink Elevator 5014/BackJun StartLink Elevator 5014.iml" filepath="$PROJECT_DIR$/BackJun StartLink Elevator 5014/BackJun StartLink Elevator 5014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackJun StringInBomb 9935 Stack StringBuilder/BackJun StringInBomb 9935 Stack StringBuilder.iml" filepath="$PROJECT_DIR$/BackJun StringInBomb 9935 Stack StringBuilder/BackJun StringInBomb 9935 Stack StringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackJun sdoku 2580/BackJun sdoku 2580.iml" filepath="$PROJECT_DIR$/BackJun sdoku 2580/BackJun sdoku 2580.iml" />
       <module fileurl="file://$PROJECT_DIR$/Backjun 14502 Lab Virus DFS BFS/Backjun 14502 Lab Virus DFS BFS.iml" filepath="$PROJECT_DIR$/Backjun 14502 Lab Virus DFS BFS/Backjun 14502 Lab Virus DFS BFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Backjun 14503 robot cleaner/Backjun 14503 robot cleaner.iml" filepath="$PROJECT_DIR$/Backjun 14503 robot cleaner/Backjun 14503 robot cleaner.iml" />
