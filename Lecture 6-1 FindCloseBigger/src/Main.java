@@ -48,7 +48,6 @@ class Main {
         }
     }
 
-    static int[] pm ;
     static boolean[] check;
     static int[] arr;
     static boolean find;
