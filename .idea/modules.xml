@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/DFS  Double Permutation 8-3/DFS  Double Permutation 8-3.iml" filepath="$PROJECT_DIR$/DFS  Double Permutation 8-3/DFS  Double Permutation 8-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/DijkstraAlgo/DijkstraAlgo.iml" filepath="$PROJECT_DIR$/DijkstraAlgo/DijkstraAlgo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exchange Coin 10-5 Knapsack/Exchange Coin 10-5 Knapsack.iml" filepath="$PROJECT_DIR$/Exchange Coin 10-5 Knapsack/Exchange Coin 10-5 Knapsack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find Princess 5-6 Queue/Find Princess 5-6 Queue.iml" filepath="$PROJECT_DIR$/Find Princess 5-6 Queue/Find Princess 5-6 Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/LIS10-2/LIS10-2.iml" filepath="$PROJECT_DIR$/LIS10-2/LIS10-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 5-1 Greedy sinking ship/Lecture -1 Greedy sinking ship.iml" filepath="$PROJECT_DIR$/Lecture 5-1 Greedy sinking ship/Lecture -1 Greedy sinking ship.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 1-1 ladder climbing/Lecture 1-1 ladder climbing.iml" filepath="$PROJECT_DIR$/Lecture 1-1 ladder climbing/Lecture 1-1 ladder climbing.iml" />
@@ -36,9 +37,10 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture 2-2 Same Frequency Hash/Lecture 2-2 Same Frequency Hash.iml" filepath="$PROJECT_DIR$/Lecture 2-2 Same Frequency Hash/Lecture 2-2 Same Frequency Hash.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 3-2 String unZip/Lecture 3-2 String unZip.iml" filepath="$PROJECT_DIR$/Lecture 3-2 String unZip/Lecture 3-2 String unZip.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 4-1 Binary Sort/Lecture 4-1 Binary Sort.iml" filepath="$PROJECT_DIR$/Lecture 4-1 Binary Sort/Lecture 4-1 Binary Sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lecture 5-2 Find Sequnece  Sorting forOrHash/Lecture 5-2 Find Sequnece  Sorting forOrHash.iml" filepath="$PROJECT_DIR$/Lecture 5-2 Find Sequnece  Sorting forOrHash/Lecture 5-2 Find Sequnece  Sorting forOrHash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 4-2 Find Sequnece  Sorting forOrHash/Lecture 5-2 Find Sequnece  Sorting forOrHash.iml" filepath="$PROJECT_DIR$/Lecture 4-2 Find Sequnece  Sorting forOrHash/Lecture 5-2 Find Sequnece  Sorting forOrHash.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 6-1 FindCloseBigger/Lecture 6-1 FindCloseBigger.iml" filepath="$PROJECT_DIR$/Lecture 6-1 FindCloseBigger/Lecture 6-1 FindCloseBigger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lecture 6-2 Count Move Greedy/Lecture 6-2 Count Move Greedy.iml" filepath="$PROJECT_DIR$/Lecture 6-2 Count Move Greedy/Lecture 6-2 Count Move Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 6-2  tugOfWar DFS/Lecture 6-2  tugOfWar DFS.iml" filepath="$PROJECT_DIR$/Lecture 6-2  tugOfWar DFS/Lecture 6-2  tugOfWar DFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 5-2 Count Move Greedy/Lecture 6-2 Count Move Greedy.iml" filepath="$PROJECT_DIR$/Lecture 5-2 Count Move Greedy/Lecture 6-2 Count Move Greedy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 7-1 Tile Jump BFS/Lecture 7-1 Tile Jump BFS.iml" filepath="$PROJECT_DIR$/Lecture 7-1 Tile Jump BFS/Lecture 7-1 Tile Jump BFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 8-1 Min Flight Payment Graph/Lecture 8-1 Min Flight Payment Graph.iml" filepath="$PROJECT_DIR$/Lecture 8-1 Min Flight Payment Graph/Lecture 8-1 Min Flight Payment Graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 9-1 Candy Store DY/Lecture 9-1 Candy Store DY.iml" filepath="$PROJECT_DIR$/Lecture 9-1 Candy Store DY/Lecture 9-1 Candy Store DY.iml" />
