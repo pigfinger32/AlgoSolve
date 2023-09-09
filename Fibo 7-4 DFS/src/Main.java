@@ -1,27 +1,29 @@
-import java.lang.reflect.Array;
-import java.util.*;
-class Main {
 
-    static int[] fibo;
-    public int DFS(int n) {
-        if(fibo[n] >0) return fibo[n];//메모이제이션
-        if(n == 1) return fibo[n] = 1;
-        if(n == 2) return fibo[n] = 1;
+import javax.naming.PartialResultException;
+import java.util.*;
+
+public class Main {
+    static long n = 0, m = 0;
+    static long[] arr;
+
+    public Long factorial(long L) { //
+        if(L <= 1) return arr[(int)L] = L;
         else {
-            return fibo[n] = DFS(n - 2) + DFS(n - 1);
+            return arr[(int)L] = factorial(L-1) * L;
         }
     }
-
+    // 3 2
     public static void main(String[] args) {
         Main main = new Main();
         Scanner kb = new Scanner(System.in);
-        int n = kb.nextInt();
-        fibo = new int[n+1];
-        main.DFS(n);
-        for (int i = 1; i < n; i++) {
-            System.out.print(fibo[i] + " ");
-        }
+        n = kb.nextLong(); // 자연수
+        m = kb.nextLong(); // 갯수
+        arr = new long[(int)n+1];
+        main.factorial(n);
 
+        System.out.println( arr[(int)n] / (arr[(int)n-(int)m] * arr[(int)m]));
+
+        // Hashtable.replace(key, value);
 
     }
 }
